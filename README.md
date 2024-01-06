@@ -6,6 +6,7 @@
 | [![AppVeyor][AppVeyor 4.0 image]][AppVeyor 4.0] |   [![AppVeyor][AppVeyor 3.6 image]][AppVeyor 3.6]   |
 | [![Code Coverage][Coverage image]][CodeCov 4.0] | [![Code Coverage][Coverage 3.6 image]][CodeCov 3.6] |
 |                       N/A                       | [![Type Coverage][TypeCov 3.6 image]][TypeCov 3.6]  |
+[![Check Imports](https://github.com/doctrine/dbal/actions/workflows/check_imports.yml/badge.svg?branch=master)](https://github.com/doctrine/dbal/actions/workflows/check_imports.yml)
 
 Powerful ***D***ata***B***ase ***A***bstraction ***L***ayer with many features for database schema introspection and schema management.
 
